@@ -175,6 +175,6 @@
     <bool name="skip_restoring_network_selection">true</bool>
 
     <!-- Enable the electron beam animation -->
-    <bool name="config_animateScreenLights">false</bool>
+    <bool name="config_animateScreenLights">true</bool>
 
 </resources>
