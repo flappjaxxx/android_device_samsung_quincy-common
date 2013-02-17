@@ -175,7 +175,7 @@
     <bool name="skip_restoring_network_selection">true</bool>
 
     <!-- Enable the electron beam animation -->
-    <bool name="config_animateScreenLights">true</bool>
+    <bool name="config_animateScreenLights">false</bool>
 
     <!-- Enable stylus gestures
     <bool name="config_stylusGestures">true</bool>
